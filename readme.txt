@@ -34,4 +34,4 @@ link to site[link to site](http://www.metukimsheli.com/2016/06/8263/)
 	מיישרים את פניה, מכסים ושומרים במקפיא ללילה שלם.
 
 
-![Image_of_cake](HW2/image1.jpg)
+[Image_of_cake](HW2/image1.jpg)!
