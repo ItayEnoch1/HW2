@@ -34,4 +34,4 @@ link to site[link to site](http://www.metukimsheli.com/2016/06/8263/)
 	מיישרים את פניה, מכסים ושומרים במקפיא ללילה שלם.
 
 
-! [Image of cake](C:\Users\Itay\Documents\MBA\MiniSemester02\Intro to Data Analysis with python\HW2\image1.jpg)
+! [Image of cake](HW2/image1.jpg)
