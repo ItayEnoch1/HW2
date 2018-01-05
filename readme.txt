@@ -34,4 +34,4 @@ link to site[link to site](http://www.metukimsheli.com/2016/06/8263/)
 	מיישרים את פניה, מכסים ושומרים במקפיא ללילה שלם.
 
 
-![Image_of_cake](https://github.com/ItayEnoch1/HW2/image1.jpg)
+![Image of github's cat](/images/github-octocat.png)
