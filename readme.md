@@ -35,3 +35,11 @@ link to site [Cake Site](http://www.metukimsheli.com/2016/06/8263/)
 
 
 ! [Image of cake](HW2/image1.png)
+! [Image of cake](HW2\image1.png)
+
+![Image of cake](https://github.com/ItayEnoch1/HW2/blob/master/image1.png)
+![Image of cake](ItayEnoch1/HW2/blob/master/image1.png)
+![Image of cake](/github.com/ItayEnoch1/HW2/blob/master/image1.png)
+
+
+
