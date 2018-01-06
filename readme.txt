@@ -1,6 +1,6 @@
 ﻿# מתכון לעוגת מסקרפונה ולוטוס קפואה
 
-link to site[link to site](http://www.metukimsheli.com/2016/06/8263/)
+link to site [Cake Site](http://www.metukimsheli.com/2016/06/8263/)
 
 ## החומרים
 
@@ -34,4 +34,8 @@ link to site[link to site](http://www.metukimsheli.com/2016/06/8263/)
 	מיישרים את פניה, מכסים ושומרים במקפיא ללילה שלם.
 
 
-[[https://github.com/ItayEnoch1/repository/blob/master/img/image1.png]]
+
+![Image of cake](https://github.com/ItayEnoch1/HW2/blob/master/image1.png)
+
+
+
