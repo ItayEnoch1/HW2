@@ -36,4 +36,4 @@ link to site[link to site](http://www.metukimsheli.com/2016/06/8263/)
 
 ![Image of github's cat](/ItayEnoch1/images/image1.jpg)
 ![image](/ItayEnoch1/HW2/blob/master/image1.jpg)
-![image](/image1.jpg)
+![image](https://github.com/ItayEnoch1/HW2/blob/master/image1.jpg)
